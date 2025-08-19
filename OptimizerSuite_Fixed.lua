@@ -1,5 +1,5 @@
 --[[
-    Roblox Optimizer Suite v2.3 - FIXED & ENHANCED
+    Roblox Optimizer Suite v1.3 - FIXED & ENHANCED
     Enhanced Player Rendering Management + Performance Optimization
     Features:
     - Hide/Show other players to improve performance
@@ -7,8 +7,8 @@
     - Automatic graphics optimization based on FPS
     - Mobile and PC performance optimizations
     - Professional GUI with status indicators
-    Author: Enhanced and Fixed by Cascade AI
-    Version: 2.3
+    Author: Enhanced and Fixed
+    Version: 1.3
 --]]
 
 -- ============================
@@ -1121,5 +1121,5 @@ _G.OptimizerSuite = {
     end
 }
 
-print("Optimizer Suite v2.3 loaded successfully!")
+print("Optimizer Suite v1.3 loaded successfully!")
 print("Access via _G.OptimizerSuite for external control")
