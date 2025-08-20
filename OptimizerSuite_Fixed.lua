@@ -1120,6 +1120,3 @@ _G.OptimizerSuite = {
         end
     end
 }
-
-print("Optimizer Suite v1.3 loaded successfully!")
-print("Access via _G.OptimizerSuite for external control")
